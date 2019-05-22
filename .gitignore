@@ -1,0 +1,5 @@
+modules.order
+Module.symvers
+morsecode.mod.c
+*.cmd
+.tmp_versions/
